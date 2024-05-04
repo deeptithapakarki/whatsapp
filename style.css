@@ -1,0 +1,396 @@
+*{margin:0px;
+    padding:0px;}
+
+html{
+    margin-left: 25px;
+    margin-right: 25px;
+    
+}
+#home{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    margin-left: 100px;
+}
+#fea{
+    color:black;
+    margin-left: 100px;
+}
+#wts{
+    height:50px;
+    width:150px;
+}
+#pri{
+    color:black;
+}
+#down{
+    border-radius: 25px;
+    background: green;
+    color:black;
+    width:130px;
+    
+}
+#down:hover{
+    background: black;
+    color:aliceblue;
+    animation-name:blk;
+}
+
+ #frnt{z-index: -1;
+    position: relative;
+    margin-top: 30px;
+    height: 900px;
+    width:99%;
+  border-radius: 20px; 
+}
+ .para1{
+    position: relative;
+    top:-735px;
+    left:250px;
+ color:aliceblue;
+ font-size: 90px;
+
+} */
+ .para2{
+    position: relative;
+    top:-715px;
+    left:250px;
+ color:aliceblue;
+ font-size: 25px;
+    
+} */
+.mrng{
+    height: 50px;
+   position: absolute;
+   z-index: 1;
+   left: 800PX;
+   top: 150px;
+} */
+.mug{
+    margin-top: -2100px;
+    margin-left: 1080px;
+}
+.grl{
+    height: 70px;
+    position: absolute;
+    top: 500px;
+    left: 200px;
+   
+ 
+}
+.grls{
+    height: 200px;
+    margin-top: -1600px;
+    margin-left: 1150px;
+  
+}
+.trp{
+    height: 70px;
+  top: 400px;
+  left: 200px;
+    position: absolute;
+}
+#load{
+    margin-top:-1500px;
+    margin-left: -1400px;
+    color:black;
+    background: green;
+    border-radius: 50px;
+    height:50px;
+    width:200px;
+}
+#dwn:hover{
+    background: white;
+}
+#chat{
+   
+    width:100%;
+    margin-top: -500px;
+}
+#para3{
+    color:black;
+    font-size: 45px;
+    margin-top: -50px;
+}
+#chat2{
+   
+    margin-top: 30px;
+   
+    width:100%;
+}
+#chat3{
+    margin-top: 20px;
+    margin-left: 55%;
+    height:650px;
+    width:350px;    
+}
+#para4{
+    margin-top: -500px;
+    margin-left: 205px;
+    font-size: 55px;
+}
+#para5{
+    color:rgb(80, 88, 80);
+    margin-left: 205px;
+}
+.lrn{
+    margin-top:50px ;
+    margin-left: 205px;
+    color:black;
+    border-bottom: 2px solid green;
+    width: 130px;
+    padding-bottom: 10px;
+}
+.lrn:hover{
+    color:green;
+}
+#cry{
+    margin-top: 50px;
+    margin-left: 115px;
+  
+}
+#black{
+ background:rgb(18, 18, 18);
+ margin-top: 100px;
+ width: 100%;
+}
+.para6{
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 55%;
+    font-size: 65px;
+    color:aliceblue;
+}
+.para7{
+    position: absolute;
+    color:green;
+    font-size: 65px;
+}
+.para8{
+    position: absolute;
+    margin-top: -320px;
+    margin-left: 55%;
+    font-size: 20px;
+    color: white;
+}
+#learn{
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 55%;
+    font-size: 20px;
+    color: white;
+    border-bottom: 2px solid green;
+    width: 130px;
+    padding-bottom: 10px;
+}
+#learn:hover{
+    color:green;
+}
+.family{z-index: 1;
+position: absolute;
+margin-left: 55%;
+margin-top: 180px;
+
+ }
+ .fam{
+    
+position: absolute;
+margin-left: 55%;
+margin-top:90px;
+        
+}
+#para9{
+    margin-top: 250px;
+    margin-left: 100px;
+    font-size: 60px;
+}
+#para10{
+    color:rgb(80, 88, 80);
+    font-size: 20px;
+    margin-left:75px;
+    padding: 20px;
+}
+#llrrnn{
+    font-size: 20px;
+   
+    margin-left:100px;
+    color:black;
+    border-bottom: 2px solid green;
+    width: 130px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+#llrrnn:hover{
+    color:green;
+}
+#laugh{
+    z-index: -1;
+    position: relative;
+    top: 200px;
+    margin-left:250px ;
+}
+#pout{
+    position: absolute;
+    top: 400px;
+    margin-left:240px;
+    height:300px;
+    width:25%;
+}
+#comb{
+    position: relative;
+}
+#say{
+    margin-left: 55%;
+    margin-top: -300px;
+   font-size: 65px;
+   
+}
+#express{
+    color:rgb(80, 88, 80);
+    margin-left: 55%;
+    font-size: 25px;
+    padding-top: 10px;
+}
+#lrrn{
+    margin-left: 55%;
+    margin-top:50px ;
+    border-bottom: 2px solid green;
+    width: 100px;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+#lrrn:hover{
+    color:green;
+}
+#bus{
+    margin-top: 300px;
+    margin-left: 65%;
+}
+#trns{
+    font-size: 55px;
+    margin-top: -500px;
+    margin-left: 15%;
+}
+#ex{
+    
+    margin-left: 15%;
+    font-size: 20px;
+    margin-top: 20px;
+    color:rgb(80, 88, 80)
+}
+#lrnnnn{
+    margin-top: 50px;
+    margin-left: 15%;
+    border-bottom: 2px solid green ;
+    width: 120px;
+    padding-bottom: 5px;
+    font-size: 20px;
+}
+#black{
+    position:relative ;
+    height:600px;
+    margin-top: 200px;
+}
+#log{
+    margin-top: 130px;
+    margin-left: 350px;
+}
+#lst{
+    margin-left: 500px;
+    margin-top: -30px;
+    color:antiquewhite;
+    display:flex;
+}
+.lis{
+    padding-left:80px;
+    list-style: none;
+}
+.hed{
+    
+    padding-top: 25px;
+    line-height: 55px;
+    font-size: 20px;
+}
+#dwn{
+    position: absolute;
+    color:white;
+    background: green;
+    border-radius: 50px;
+    height:50px;
+    width:200px;
+    margin-top: -100px; 
+    margin-left: 320px;
+}
+#lin{
+    color:green;
+    width: 60%;
+    margin-left: 300px;
+}
+#btm{
+    padding-top: 30px;
+  color:aliceblue;
+   margin-left: 200px;
+    display: flex;
+}
+.botm{
+    padding-left:100px;
+    list-style: none;
+}
+#eng{
+    background: rgb(26, 27, 27);
+    color:white;
+    height:50px;
+    width:250px;
+    border: 2px solid white;
+    border-radius: 25px;
+    margin-left: 100px;
+}
+#icnn{
+    padding-left: 200px;
+    
+   
+}
+#iconn{
+    list-style:none;
+    margin-left: 100px;
+}
+#twit{
+    border:1px solid white;
+    height:40px;
+    width: 40px;
+    border-radius:20px ;
+    margin-left: 15px;
+    padding: 10px;
+    background: #3b3b3b;
+}
+#you{
+    border:1px solid white;
+    margin-left: 10px;
+    height:40px;
+    width: 40px;
+    border-radius:20px ;
+    margin-left: 15px;
+    padding: 10px;
+    background: #3b3b3b;
+}
+#face{
+    
+   
+    border:1px solid white;
+    margin-left: 10px;
+    height:40px;
+    width: 40px;
+    border-radius:20px ;
+    margin-left: 15px;
+    padding: 10px;
+    background: #3b3b3b;
+}
+ #inst{
+    border:1px solid white;
+    height:40px;
+    width: 40px;
+    border-radius:20px ;
+    margin-left: 15 px;
+    padding: 10px;
+    background: #3b3b3b;
+} */
